@@ -1,4 +1,4 @@
-# codeplayer-css-pumpkin
+# CodePlayer CSS Pumpkin
 CSS pumpkin. Made with HTML &amp; CSS.
 
 ## Instructions
