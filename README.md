@@ -1,11 +1,14 @@
 # CodePlayer CSS Pumpkin
-CSS pumpkin. Made with HTML and CSS.
+Carved pumkin CSS art
+
+## Tech Stack
+- HTML
+- CSS
 
 ## Instructions
-Clone or download zip file. Open index.html file in your browser.
-
-## Contributing
-This repository is based on starter code from TheCodePlayer.com. Therefore I will not be accepting any pull requests.
+1. Clone or download zip file. 
+2. Open index.html file in your browser.
+3. The pumpkin will be in the center of the screen.
 
 ## Acknowledgements
 * TheCodePlayer.com
